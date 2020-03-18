@@ -5,6 +5,21 @@ examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/RTE
 examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/JLinkLog.txt
 examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/JLinkSettings.ini
 examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/*.scvd
-examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/secure_bootloader_ble_s132_pca10040_debug.uvguix.*
+examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/secure_bootloader_uart_mbr_pca10040.uvguix.*
 examples/dfu/secure_bootloader/pca10040_uart_merge_ble/arm5_no_packs/*.BAT
 
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/_build
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/RTE
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/JLinkLog.txt
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/JLinkSettings.ini
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/*.scvd
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/secure_bootloader_ble_s132_pca10040.uvguix.*
+examples/dfu/secure_bootloader/pca10040_s132_ble/arm5_no_packs/*.BAT
+
+/project/_build
+/project/RTE
+/project/JLinkLog.txt
+/project/JLinkSettings.ini
+/project/*.scvd
+/project/*.bak
+/project/ble_nfc.uvguix.*
